@@ -1,0 +1,32 @@
+C:\Users\ÖĞRENCİ\Desktop\Batuhan Subaşı\Sahibinden_B\Sahibinden_B\bin\Debug\Sahibinden_B.exe.config
+C:\Users\ÖĞRENCİ\Desktop\Batuhan Subaşı\Sahibinden_B\Sahibinden_B\bin\Debug\Sahibinden_B.exe
+C:\Users\ÖĞRENCİ\Desktop\Batuhan Subaşı\Sahibinden_B\Sahibinden_B\bin\Debug\Sahibinden_B.pdb
+C:\Users\ÖĞRENCİ\Desktop\Batuhan Subaşı\Sahibinden_B\Sahibinden_B\obj\Debug\Sahibinden_B.csprojResolveAssemblyReference.cache
+C:\Users\ÖĞRENCİ\Desktop\Batuhan Subaşı\Sahibinden_B\Sahibinden_B\obj\Debug\Sahibinden_B.Form1.resources
+C:\Users\ÖĞRENCİ\Desktop\Batuhan Subaşı\Sahibinden_B\Sahibinden_B\obj\Debug\Sahibinden_B.Form2.resources
+C:\Users\ÖĞRENCİ\Desktop\Batuhan Subaşı\Sahibinden_B\Sahibinden_B\obj\Debug\Sahibinden_B.Properties.Resources.resources
+C:\Users\ÖĞRENCİ\Desktop\Batuhan Subaşı\Sahibinden_B\Sahibinden_B\obj\Debug\Sahibinden_B.csproj.GenerateResource.Cache
+C:\Users\ÖĞRENCİ\Desktop\Batuhan Subaşı\Sahibinden_B\Sahibinden_B\obj\Debug\Sahibinden_B.exe
+C:\Users\ÖĞRENCİ\Desktop\Batuhan Subaşı\Sahibinden_B\Sahibinden_B\obj\Debug\Sahibinden_B.pdb
+C:\Users\ÖĞRENCİ\Desktop\Batuhan Subaşı\Sahibinden_B\Sahibinden_B\obj\Debug\Sahibinden_B.Form3.resources
+C:\Users\ÖĞRENCİ\Desktop\Batuhan Subaşı\Sahibinden_B\Sahibinden_B\obj\Debug\Sahibinden_B.Form4.resources
+C:\Users\ÖĞRENCİ\Desktop\Batuhan Subaşı\Sahibinden_B\Sahibinden_B\obj\Debug\Sahibinden_B.Form5.resources
+C:\Users\ÖĞRENCİ\Desktop\Batuhan Subaşı\Sahibinden_B\Sahibinden_B\obj\Debug\Sahibinden_B.Form6.resources
+C:\Users\ÖĞRENCİ\Desktop\Batuhan Subaşı\Sahibinden_B\Sahibinden_B\obj\Debug\Sahibinden_B.Form7.resources
+C:\Users\ÖĞRENCİ\Desktop\Batuhan Subaşı\Sahibinden_B\Sahibinden_B\obj\Debug\Sahibinden_B.Form8.resources
+C:\Users\HP\Desktop\Sahibinden_B\Sahibinden_B\bin\Debug\Sahibinden_B.exe.config
+C:\Users\HP\Desktop\Sahibinden_B\Sahibinden_B\obj\Debug\Sahibinden_B.exe
+C:\Users\HP\Desktop\Sahibinden_B\Sahibinden_B\obj\Debug\Sahibinden_B.pdb
+C:\Users\HP\Desktop\Sahibinden_B\Sahibinden_B\obj\Debug\Sahibinden_B.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Sahibinden_B\Sahibinden_B\obj\Debug\Sahibinden_B.Form1.resources
+C:\Users\HP\Desktop\Sahibinden_B\Sahibinden_B\obj\Debug\Sahibinden_B.Form2.resources
+C:\Users\HP\Desktop\Sahibinden_B\Sahibinden_B\obj\Debug\Sahibinden_B.Form3.resources
+C:\Users\HP\Desktop\Sahibinden_B\Sahibinden_B\obj\Debug\Sahibinden_B.Form4.resources
+C:\Users\HP\Desktop\Sahibinden_B\Sahibinden_B\obj\Debug\Sahibinden_B.Form5.resources
+C:\Users\HP\Desktop\Sahibinden_B\Sahibinden_B\obj\Debug\Sahibinden_B.Form6.resources
+C:\Users\HP\Desktop\Sahibinden_B\Sahibinden_B\obj\Debug\Sahibinden_B.Form7.resources
+C:\Users\HP\Desktop\Sahibinden_B\Sahibinden_B\obj\Debug\Sahibinden_B.Form8.resources
+C:\Users\HP\Desktop\Sahibinden_B\Sahibinden_B\obj\Debug\Sahibinden_B.Properties.Resources.resources
+C:\Users\HP\Desktop\Sahibinden_B\Sahibinden_B\obj\Debug\Sahibinden_B.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Sahibinden_B\Sahibinden_B\bin\Debug\Sahibinden_B.exe
+C:\Users\HP\Desktop\Sahibinden_B\Sahibinden_B\bin\Debug\Sahibinden_B.pdb
